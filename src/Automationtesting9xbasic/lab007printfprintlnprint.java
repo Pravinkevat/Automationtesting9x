@@ -1,4 +1,4 @@
-package Automationtesting9x;
+package Automationtesting9xbasic;
 
 public class lab007printfprintlnprint {
     public static void main(String[] args) {

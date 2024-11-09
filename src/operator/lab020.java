@@ -1,4 +1,4 @@
-package operators;
+package operator;
 
 public class lab020 {
     public static void main(String[] args) {

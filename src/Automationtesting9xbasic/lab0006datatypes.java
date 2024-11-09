@@ -1,6 +1,4 @@
-package Automationtesting9x;
-
-import java.time.LocalTime;
+package Automationtesting9xbasic;
 
 public class lab0006datatypes {
     public static void main(String[] args) {
