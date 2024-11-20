@@ -22,6 +22,12 @@ public class lab035switch {
             case "*":
                 System.out.println("your result of multipication is"+(num1*num2));
                 break;
+            case "/":
+                System.out.println("your result of division is "+(num1/num2));
+                break;
+            case "%":
+                System.out.println("your result of modulus is "+(num1%num2));
+                break;
             default:
                 System.out.println("please enter valid operator");
                 break;
